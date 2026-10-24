@@ -2,9 +2,12 @@
 "DinoDipConfig": {
 "alwaysallowtaming": [
 "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",
+"/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP_C",
 "/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
 "/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP_C",
 "/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP_C",
+"/Game/ASA/Dinos/LifeLabyrinth/Direbear/Direbear_LL_Character_BP.Direbear_LL_Character_BP_C",
+"/Game/PrimalEarth/Dinos/Stag/Stag_Character_BP.Stag_Character_BP_C",
 ],
 "weeksarrays": [
 {
@@ -14,69 +17,32 @@
 "chancetodrop": 0.9
 },
 {
-"dino": "/Game/PrimalEarth/Dinos/Ichthyornis/Ichthyornis_Character_BP.Ichthyornis_Character_BP_C",
-"chancetodrop": 0.3
-},
-{
-"dino": "/Game/ScorchedEarth/Dinos/Vulture/Vulture_Character_BP.Vulture_Character_BP_C",
-"chancetodrop": 0.3
-},
-{
 "dino": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
-"chancetodrop": 0.7
-},
-{
-"dino": "/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP_C",
-"chancetodrop": 0.5
-},
-{
-"dino": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
-"chancetodrop": 0.5
+"chancetodrop": 0.3
 },
 {
 "dino": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
-"chancetodrop": 0.9
+"chancetodrop": 0.3
 },
 {
 "dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP_C",
-"chancetodrop": 0.4
-}
-],
-"dipstogive": 4
-},
-{
-"weekforoptions": [
-{
-"dino": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP_C",
-"chancetodrop": 0.4
-},
-{
-"dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C",
-"chancetodrop": 0.5
-},
-{
-"dino": "/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP.Lystro_Character_BP_C",
-"chancetodrop": 0.2
-},
-{
-"dino": "/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP.Hyaenodon_Character_BP_C",
 "chancetodrop": 0.7
 },
 {
-"dino": "/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP_C",
-"chancetodrop": 0.6
-},
-{
-"dino": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP_C",
-"chancetodrop": 0.6
-},
-{
-"dino": "Game/ScorchedEarth/Dinos/SpineyLizard/SpineyLizard_Character_BP.SpineyLizard_Character_BP_C",
-"chancetodrop": 0.6
-},
-{
 "dino": "/Game/PrimalEarth/Dinos/Gallimimus/Galli_Character_BP.Galli_Character_BP_C",
+"chancetodrop": 0.5
+},
+{
+"dino": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP_C",
+"chancetodrop": 0.5
+},
+{
+"dino": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP_C",
 "chancetodrop": 0.9
+},
+{
+"dino": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
+"chancetodrop": 0.4
 }
 ],
 "dipstogive": 4
@@ -85,34 +51,71 @@
 "weekforoptions": [
 {
 "dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
-"chancetodrop": 0.5
+"chancetodrop": 0.4
 },
 {
 "dino": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP_C",
 "chancetodrop": 0.5
 },
 {
-"dino": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP_C",
-"chancetodrop": 0.5
-},
-{
-"dino": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
-"chancetodrop": 0.5
-},
-{
-"dino": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
-"chancetodrop": 0.5
-},
-{
-"dino": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
-"chancetodrop": 0.5
+"dino": "/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP_C",
+"chancetodrop": 0.2
 },
 {
 "dino": "/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP_C",
-"chancetodrop": 0.5
+"chancetodrop": 0.7
+},
+{
+"dino": "/Game/ScorchedEarth/Dinos/Camelsaurus/camelsaurus_Character_BP.camelsaurus_Character_BP_C",
+"chancetodrop": 0.6
+},
+{
+"dino": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
+"chancetodrop": 0.6
+},
+{
+"dino": "/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP_C",
+"chancetodrop": 0.6
 },
 {
 "dino": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP_C",
+"chancetodrop": 0.9
+}
+],
+"dipstogive": 4
+},
+{
+"weekforoptions": [
+{
+"dino": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
+"chancetodrop": 0.2
+},
+{
+"dino": "/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP_C",
+"chancetodrop": 0.5
+},
+{
+"dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C",
+"chancetodrop": 0.8
+},
+{
+"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
+"chancetodrop": 0.5
+},
+{
+"dino": "/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP_C",
+"chancetodrop": 0.8
+},
+{
+"dino": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
+"chancetodrop": 0.2
+},
+{
+"dino": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP_C",
+"chancetodrop": 0.5
+},
+{
+"dino": "/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP_C",
 "chancetodrop": 0.5
 }
 ],
@@ -122,39 +125,120 @@
 "weekforoptions": [
 {
 }
-"dino":"/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
+"dino":"/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP_C",
 "chancetodrop":0.2
 },
 {
-"dino":"/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP_C",
+"dino":"/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP_C",
 "chancetodrop":0.3
 },
 {
-"dino":"/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP_C",
+"dino":"/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
 "chancetodrop":0.6
 },
 {
-"dino":"/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP_C",
+"dino":"/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP_C",
 "chancetodrop":0.3
 },
 {
-"dino":"/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP_C",
+"dino":"/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP_C",
 "chancetodrop":0.5
 },
 {
-"dino":"/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
+"dino":"/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C",
 "chancetodrop":0.5
 },
 {
-"dino":"/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP_C",
+"dino":"/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP_C",
 "chancetodrop":0.8
 },
 {
-"dino":"/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP_C",
+"dino":"/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
 "chancetodrop":0.8
 }
 ],
+"dipstogive": 3
+},
+{
+"weekforoptions": [
+{
+}
+"dino":"/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
+"chancetodrop":0.8
+}
+],
+"dino":"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP.ShoulderDragon_Character_BP_C",
+"chancetodrop":0.3
+}
+],
+"dino":"/Game/Packs/TidesOfFortune/Dinos/Parrot/Parrot_Character_BP.Parrot_Character_BP_C",
+"chancetodrop":0.3
+}
+],
+"dino":"/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
+"chancetodrop":0.8
+}
+],
+"dino":"/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP_C",
+"chancetodrop":0.5
+}
+],
+"dino":"/Game/PrimalEarth/Dinos/Microraptor/Microraptor_Character_BP.Microraptor_Character_BP_C",
+"chancetodrop":0.6
+}
+],
+"dino":"/Game/PrimalEarth/Dinos/Troodon/Troodon_Character_BP.Troodon_Character_BP_C",
+"chancetodrop":0.8
+}
+],
+"dino":"/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP_C",
+"chancetodrop":0.8
+}
+],
+"dipstogive": 2
+},
+{
+"weekforoptions": [
+{
+}
+"dino":"/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP
+"chancetodrop":0.8
+}
+],
+"dino":"/Game/ScorchedEarth/Dinos/SpineyLizard/SpineyLizard_Character_BP.SpineyLizard_Character_BP
+"chancetodrop":0.8
+}
+],
+"dino":"/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP
+"chancetodrop":0.8
+}
+],
+"dino":"/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP
+"chancetodrop":0.3
+}
+],
+"dino":"/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP
+"chancetodrop":0.3
+}
+],
+"dino":"/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP
+"chancetodrop":0.8
+}
+],
+"dino":"/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP
+"chancetodrop":0.4
+}
+],
+"dino":"/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP.Hyaenodon_Character_BP
+"chancetodrop":0.7
+}
+],
 "dipstogive": 4
+},
+{
+"weekforoptions": [
+{
+}
 {
 ]
 }
