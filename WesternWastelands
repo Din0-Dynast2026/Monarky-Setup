@@ -164,7 +164,7 @@
 "dino":"/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
 "chancetodrop":0.8
 }
-],
+{,
 "dino":"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP.ShoulderDragon_Character_BP_C",
 "chancetodrop":0.3
 },
@@ -265,7 +265,6 @@
 {
 "weekforoptions": [
 {
-}
 "dino":"/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
 "chancetodrop":0.8
 },
@@ -303,7 +302,6 @@
 {
 "weekforoptions": [
 {
-}
 "dino":"/Game/ASA/Dinos/Boaratos/Boaratos_Character_BP.Boaratos_Character_BP_C",
 "chancetodrop":0.6
 },
@@ -333,7 +331,6 @@
 {
 "weekforoptions": [
 {
-}
 "dino":"/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP_C",
 "chancetodrop":0.6
 },
