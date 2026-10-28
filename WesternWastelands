@@ -12,7 +12,13 @@
             "/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP_C",
             "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
             "/Game/PrimalEarth/Dinos/Gallimimus/Galli_Character_BP.Galli_Character_BP_C",
-            "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C"
+            "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
+            "/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP.Lystro_Character_BP_C",
+            "/EquusCaballus/Caballus/Knight/misc/new/Horse_CommonCharacter_BP.Horse_CommonCharacter_BP_C",
+            "/EquusCaballus/Caballus/Knight/misc/new/Horse_EasternCharacter_BP.Horse_EasternCharacter_BP_C",
+            "/EquusCaballus/Caballus/Knight/misc/new/Horse_WesternCharacter_BP.Horse_WesternCharacter_BP_C",
+            "/EquusCaballus/Caballus/Knight/misc/new/HorseCharacter_BP.HorseCharacter_BP_C",
+            "/EquusCaballus/Caballus/Knight/misc/new/HorseCharacter_Base_BP.HorseCharacter_Base_BP_C"
 		],
 		"weeksarrays": [
 			{
