@@ -18,7 +18,11 @@
             "/EquusCaballus/Caballus/Knight/misc/new/Horse_EasternCharacter_BP.Horse_EasternCharacter_BP_C",
             "/EquusCaballus/Caballus/Knight/misc/new/Horse_WesternCharacter_BP.Horse_WesternCharacter_BP_C",
             "/EquusCaballus/Caballus/Knight/misc/new/HorseCharacter_BP.HorseCharacter_BP_C",
-            "/EquusCaballus/Caballus/Knight/misc/new/HorseCharacter_Base_BP.HorseCharacter_Base_BP_C"
+            "/EquusCaballus/Caballus/Knight/misc/new/HorseCharacter_Base_BP.HorseCharacter_Base_BP_C",
+            "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C",
+            "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
+            "/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP_C",
+            "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C"
 		],
 		"weeksarrays": [
 			{
