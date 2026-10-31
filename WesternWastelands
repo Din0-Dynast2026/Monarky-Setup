@@ -7,19 +7,7 @@
 			"/Game/Packs/Steampunk/Dinos/HelperBot/HelperBot_Character_BP.HelperBot_Character_BP_C",
 			"/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP_C",
 			"/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
-			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP_C",
-            "_C",
-            "_C",
-            "/_C",
-            "/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP.Lystro_Character_BP_C",
-            "/EquusCaballus/Caballus/Knight/misc/new/Horse_CommonCharacter_BP.Horse_CommonCharacter_BP_C",
-            "/EquusCaballus/Caballus/Knight/misc/new/Horse_EasternCharacter_BP.Horse_EasternCharacter_BP_C",
-            "/EquusCaballus/Caballus/Knight/misc/new/Horse_WesternCharacter_BP.Horse_WesternCharacter_BP_C",
-            "/EquusCaballus/Caballus/Knight/misc/new/HorseCharacter_BP.HorseCharacter_BP_C",
-            "/EquusCaballus/Caballus/Knight/misc/new/HorseCharacter_Base_BP.HorseCharacter_Base_BP_C",
-            "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C",
+			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
 		],
 		"weeksarrays": [
 			{
