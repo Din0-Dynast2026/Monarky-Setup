@@ -505,7 +505,7 @@
 					},
 					{
 						"dino": "/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP_C",
-						"chancetodrop": 0.3
+						"chancetodrop": 0.6
 					},
 					{
 						"dino": "/Game/ScorchedEarth/Dinos/RockGolem/RubbleGolem_Character_BP.RubbleGolem_Character_BP_C",
@@ -513,15 +513,15 @@
 					},
 					{
 						"dino": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
-						"chancetodrop": 0.3
+						"chancetodrop": 0.6
 					},
 					{
 						"dino": "/Moros_Indomitable_Duo/MoroRex_Gen2/Blueprints/MoroRexGen2_Character_BP.MoroRexGen2_Character_BP_C",
-						"chancetodrop": 0.25
+						"chancetodrop": 0.4
 					},
 					{
 						"dino": "/Moros_Indomitable_Duo/IndominusRex/Models/MorosRex_Character_BP.MorosRex_Character_BP_C",
-						"chancetodrop": 0.2
+						"chancetodrop": 0.4
 					},
 					{
 						"dino": "/Moros_Indomitable_Duo/IndominusRex/IndoRaptor/IndoRaptorBlueprints/MoroRaptor_Character_BP.MoroRaptor_Character_BP_C",
@@ -529,6 +529,26 @@
 					},
 					{
 						"dino": "/Moros_Indomitable_Duo/IndominusRex/IndoRaptor/IndoRaptorBlueprints/Gen2MoroRaptor.Gen2MoroRaptor_C",
+						"chancetodrop": 0.4
+                    },
+					{
+						"dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/Valguero/PA_Val_Ledu_Character_BP.PA_Val_Ledu_Character_BP_C",
+						"chancetodrop": 0.4
+                    },
+					{
+						"dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/Paleo/PA_Paleo_Ledu_Character_BP.PA_Paleo_Ledu_Character_BP_C",
+						"chancetodrop": 0.4
+                    },
+					{
+						"dino": "/PA_Plus_Pack_02/Dinos/Empirosaurus/PA_Empiro_Character_BP.PA_Empiro_Character_BP_C",
+						"chancetodrop": 0.4
+                    },
+					{
+						"dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/PA_Ledu_Character_BP.PA_Ledu_Character_BP_C",
+						"chancetodrop": 0.4
+                    },
+					{
+						"dino": "/PA_Plus_Pack_02/Dinos/Empirosaurus/Paleo/PA_Paleo_Empiro_Character_BP.PA_Paleo_Empiro_Character_BP_C",
 						"chancetodrop": 0.4
 					}
 				],
