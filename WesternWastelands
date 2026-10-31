@@ -456,10 +456,6 @@
 					{
 						"dino": "/DVS/Acro/ScorchedAcrocanthosaurus_Character_BP.ScorchedAcrocanthosaurus_Character_BP_C",
 						"chancetodrop": 0.5
-                    },
-					{
-						"dino": "_C",
-						"chancetodrop": 0.5
 					},
 					{
 						"dino": "/SEReborn_Additions/Dinos/Bison/Bison_Character_BP_SEReborn.Bison_Character_BP_SEReborn_C",
@@ -472,67 +468,6 @@
 					{
 						"dino": "/TA_Vecti/Content/TA_Vecti/Varients/TAC_SE_Vecti_Character_Bp_C_Child.TAC_SE_Vecti_Character_Bp_C_Child_C",
 						"chancetodrop": 0.5
-					}
-				],
-				"dipstogive": 5
-		    },
-			{
-				"weekforoptions": [
-					{
-						"dino": "_C",
-						"chancetodrop": 0.1
-					},
-					{
-						"dino": "_C",
-						"chancetodrop": 0.3
-					},
-					{
-						"dino": "_C",
-						"chancetodrop": 0.2
-					},
-					{
-						"dino": "_C",
-						"chancetodrop": 0.3
-					},
-					{
-						"dino": "_C",
-						"chancetodrop": 0.25
-					},
-					{
-						"dino": "_C",
-						"chancetodrop": 0.2
-					},
-					{
-						"dino": "_C",
-						"chancetodrop": 0.4
-					},
-					{
-						"dino": "_C",
-						"chancetodrop": 0.4
-					},
-					{
-						"dino": "_C",
-						"chancetodrop": 0.3
-					},
-					{
-						"dino": "_C",
-						"chancetodrop": 0.3
-					},
-					{
-						"dino": "_C",
-						"chancetodrop": 0.3
-					},
-					{
-						"dino": "_C",
-						"chancetodrop": 0.4
-					},
-					{
-						"dino": "_C",
-						"chancetodrop": 0.3
-					},
-					{
-						"dino": "_C",
-						"chancetodrop": 0.3
 					}
 				],
 				"dipstogive": 5
@@ -560,7 +495,7 @@
 						"chancetodrop": 0.25
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 2
 		    },
 			{
 				"weekforoptions": [
@@ -597,7 +532,7 @@
 						"chancetodrop": 0.4
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 2
 			}
 		]
 	}
