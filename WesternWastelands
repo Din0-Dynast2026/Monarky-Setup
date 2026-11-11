@@ -423,6 +423,8 @@
 					}
 				],
 				"dipstogive": 1
+		    },
+			{
 				"weekforoptions": [
 					{
 						"dino": "/DVS/Anky/ScorchedAnkylo_Character_BP.ScorchedAnkylo_Character_BP_C",
