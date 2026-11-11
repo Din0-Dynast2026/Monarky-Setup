@@ -55,9 +55,29 @@
 					{
 						"dino": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
 						"chancetodrop": 0.9
+					},
+					{
+						"dino": "/EquusCaballus/Caballus/Knight/misc/new/Horse_CommonCharacter_BP.Horse_CommonCharacter_BP_C",
+						"chancetodrop": 0.1
+					},
+					{
+						"dino": "/EquusCaballus/Caballus/Knight/misc/new/Horse_EasternCharacter_BP.Horse_EasternCharacter_BP_C",
+						"chancetodrop": 0.8
+					},
+					{
+						"dino": "/EquusCaballus/Caballus/Knight/misc/new/Horse_WesternCharacter_BP.Horse_WesternCharacter_BP_C",
+						"chancetodrop": 0.7
+					},
+					{
+						"dino": "/EquusCaballus/Caballus/Knight/misc/new/HorseCharacter_Base_BP.HorseCharacter_Base_BP_C",
+						"chancetodrop": 0.9
+                    },
+					{
+						"dino": "/EquusCaballus/Caballus/Knight/misc/new/HorseCharacter_BP.HorseCharacter_BP_C",
+						"chancetodrop": 0.9
 					}
 				],
-				"dipstogive": 11
+				"dipstogive": 16
 			},
 			{
 				"weekforoptions": [
