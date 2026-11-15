@@ -178,7 +178,7 @@
 						"chancetodrop": 0.5
 					}
 				],
-				"dipstogive": 10
+				"dipstogive": 6
 			},
 			{
 				"weekforoptions": [
@@ -263,7 +263,7 @@
 						"chancetodrop": 0.5
 					}
 				],
-				"dipstogive": 10
+				"dipstogive": 6
 			},
 			{
 				"weekforoptions": [
@@ -643,7 +643,7 @@
 						"chancetodrop": 0.5
 					}
 				],
-				"dipstogive": 10
+				"dipstogive": 6
 			},
 			{
 				"weekforoptions": [
@@ -894,7 +894,7 @@
 						"chancetodrop": 0.5
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 4
 			},
 			{
 				"weekforoptions": [
@@ -939,7 +939,7 @@
 						"chancetodrop": 0.5
 					}
 				],
-				"dipstogive": 10
+				"dipstogive": 4
 			},
 			{
 				"weekforoptions": [
@@ -984,7 +984,7 @@
 						"chancetodrop": 0.5
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 4
 			},
 			{
 				"weekforoptions": [
@@ -1038,10 +1038,6 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
-						"chancetodrop": 0.5
-					},
-					{
-						"dino": "_C",
 						"chancetodrop": 0.5
 					},
 					{
