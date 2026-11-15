@@ -77,7 +77,7 @@
 						"chancetodrop": 0.5
                     },
 					{
-						"dino": ""/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP_C",_C",
+						"dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP_C",
 						"chancetodrop": 0.5
                     },
 					{
