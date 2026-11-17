@@ -1070,6 +1070,91 @@
 					}
 				],
 				"dipstogive": 10
+			},
+			{
+				"weekforoptions": [
+					{
+						"dino": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Cerberus/Cerberus_Character_BP.Cerberus_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Jackalope/Jackalope_Character_BP.Jackalope_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Chameleon/Chameleon_Character_BP.Chameleon_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
+						"chancetodrop": 0.5
+                    },
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
+						"chancetodrop": 0.5
+                    },
+					{
+						"dino": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP_C",
+						"chancetodrop": 0.5
+                    },
+					{
+						"dino": "/SEReborn_Additions/Dinos/Deinosuchus/DeinosuchusASA_Character_BP_SEReborn_Puru.DeinosuchusASA_Character_BP_SEReborn_Puru_C",
+						"chancetodrop": 0.5
+                    },
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP_C",
+						"chancetodrop": 0.5
+                    },
+					{
+						"dino": "/Game/ASA/Dinos/Jackalope/Jackalope_Character_BP.Jackalope_Character_BP_C",
+						"chancetodrop": 0.5
+					}
+				],
+				"dipstogive": 20
 			}
 		]
 	}
